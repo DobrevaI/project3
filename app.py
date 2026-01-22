@@ -4,5 +4,5 @@ st.text_input("Please enter your name: ")
 st.number_input("Please enter your age: ")
 subject=st.selectbox("Please select your favorite subject: ", ["Maths", "English", "German", "PE"])
 st.button("PRESS MEEEEEE")
-if st.button("PRESS MEEEEEE"):
+if st.button(""):
   st.success("WOOOOOOOOOO")
